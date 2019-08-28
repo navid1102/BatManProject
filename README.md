@@ -9,6 +9,7 @@ This project is a Comprehensive  simple with MVP.
 ## Technologies
 Project is created with:
 * MVP design pattern
+* AndroidX
 * Singleton activity pattern
 * RXAndroid: 2.1.1
 * Retrofit:2.5.0
