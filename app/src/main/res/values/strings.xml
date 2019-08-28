@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BatmanNF</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <string name="year">Year : %1$s</string>
+    <string name="runtime">Runtime : %1$s</string>
+    <string name="genre">Genre : %1$s</string>
+    <string name="director">Director : %1$s</string>
+    <string name="writer">Writer : %1$s</string>
+    <string name="actor">Actors : %1$s</string>
+    <string name="plot">Plot : %1$s</string>
+    <string name="language">Language : %1$s</string>
+    <string name="country">Country : %1$s</string>
+    <string name="awards">Awards : %1$s</string>
+    <string name="dvd">DVD : %1$s</string>
+    <string name="type">Type : %1$s</string>
+    <string name="boxoffice">BoxOffice : %1$s</string>
+    <string name="production">Production : %1$s</string>
+    <string name="website">Website : %1$s</string>
+    <string name="you_are_offline">You’re offline. Check your connection.</string>
+
+    <string name="detailMovie"><![CDATA[<b>%1$s</b> %2$s]]></string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

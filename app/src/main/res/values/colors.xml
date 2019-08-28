@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2A2E43</color>
+    <color name="colorPrimaryDark">#2A2E43</color>
+    <color name="colorAccent">#3ACCE1</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white2">#8FFFFFFF</color>
+    <color name="white3">#B7FFFFFF</color>
+    <color name="darkGray">#2A2E43</color>
+    <color name="darkGray_txt">#454F63</color>
+    <color name="darkGray_item">#353A50</color>
+
+    <drawable name="white">#ffffff</drawable>
+    <color name="light_blue">#3ACCE1</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="lightBlue">#3ACCE1</color>
+    <color name="pink">#FF4F9A</color>
+    <color name="txt_gray">#959DAD</color>
+    <color name="blue">#5773FF</color>
+    <color name="gold">#FFB900</color>
+    <color name="grayDisable">#59FFFFFF</color>
+    <color name="darkGray2">#141724</color>
+    <color name="white4">#EEE3E3</color>
+    <color name="redOffline">#ee3a4c</color>
+    <color name="redOffline2">#5E0A11</color>
+
+</resources>
