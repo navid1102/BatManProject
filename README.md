@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is a Comprehensive  simple with MAP.
+This project is a Comprehensive  simple with MVP.
 	
 ## Technologies
 Project is created with:
